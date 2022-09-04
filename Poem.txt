@@ -8,3 +8,6 @@ Arduino
 And Gate
 Or Gate
 Not Gate
+
+Router
+Switch
