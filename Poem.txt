@@ -4,6 +4,7 @@ RaspberryPI
 Particle Photon
 BBC Microbit
 Arduino
+Particle Boron
 
 And Gate
 Or Gate
