@@ -1,6 +1,10 @@
-IoT
+IoT and Hardwares
 
 RaspberryPI
 Particle Photon
 BBC Microbit
 Arduino
+
+And Gate
+Or Gate
+Not Gate
